@@ -1,6 +1,6 @@
 # Editing program
 This is a program where you can manipulate videos, images and audios.
-  Packages used:
+Packages used:
   - Pillow
   - CV2
   - Moviepy
